@@ -9,7 +9,9 @@ Simple web generating musical sounds and forms using Paper.js
 
 Creates circles linked with musical samples from [Neuronal-Synchrony](https://github.com/jonobr1/Neuronal-Synchrony/tree/master/assets)
 
-Screenshot and Gif
+Mouse click creates an animated square that fades out.
+
+# Screenshot and GIF
 
 ![Christian Ray Leovido Metables](/Screenshots/metables-scr-1.jpg)
 
