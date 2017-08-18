@@ -1,9 +1,9 @@
 html, body {
     height: 100%;
     margin: 0;
-    /* background: linear-gradient(to bottom right, purple, orange); */
+    background: linear-gradient(to bottom right, purple, orange);
     /* background: linear-gradient(to bottom right, #587B7F, #CFEE9E); */
-    background: linear-gradient(to bottom right, #3C6E71, #F4743B);
+    /* background: linear-gradient(to bottom right, #3C6E71, #F4743B); */
     /* background: linear-gradient(to bottom right, aliceblue, pink); */
 }
 
