@@ -1,7 +1,7 @@
 # Metables Typeon
 
-Simple web generating musical sounds and forms using Paper.js
-
+Simple web generating musical sounds and forms using Paper.js<br>
+[Click here to try it out!](https://kuriishu27.github.io/metables-typeon/)
 
 # Features
 
@@ -25,4 +25,4 @@ Mouse click creates an animated square that fades out.
 - Save recording
 - Share feature
 
-Original project from Colt Steele's course on Udemy 
+Original project from Colt Steele's course on Udemy
